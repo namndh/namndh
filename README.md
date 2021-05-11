@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning distributed compute engine
 - 📫 How to reach me: 
   - hainam.nguyen.ict@gmail.com
-  - linkedin.com/nam-ndh
+  - https://linkedin.com/nam-ndh
 
 <!---
 namndh/namndh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
